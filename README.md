@@ -52,7 +52,7 @@ Semua parameter utama ada di `main.py`, antara lain:
 - `CSV_PATH` — lokasi dataset.
 - `SIMULATION_DURATION_SECONDS` — durasi simulasi.
 - `PUBLISH_INTERVAL_SECONDS` — interval publish antar paket.
-- `LCNUM` — least count untuk menentukan granularitas leaf tree.
+- `LCNUM` — batas maksimum jumlah hari per leaf node (least count). Contoh: `1` berarti leaf harian, `30` berarti satu leaf dapat mencakup hingga 30 hari (lebih sedikit key leaf).
 - `INITIAL_SUBSCRIBERS` — jumlah subscriber awal aktif.
 - `ADD_SUBSCRIBERS_INTERVAL` — interval penambahan subscriber.
 - `SUBSCRIBERS_ADDED_PER_INTERVAL` — jumlah subscriber ditambah tiap interval.
