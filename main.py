@@ -13,7 +13,7 @@ from subscriber_manager import SubscriberManager
 # =========================
 
 # Lokasi file yang diperlukan untuk simulasi.
-CSV_PATH = "data/GoogleStock_Dataset_V2.csv"
+CSV_PATH = "data/GoogleStock_Dataset_Latest.csv"
 
 # Nama publisher/perangkat yang digunakan untuk subscribe di broker.
 PUBLISHER_NAME = "GoogleStockPublisher"
