@@ -1,7 +1,7 @@
-granularity_days_G,standard_key_count,tree_key_count,max_standard_actual_leaf_keys,max_tree_shared_nodes
-1,631082,4917,3535,19
-5,177506,4724,992,18
-30,22622,3486,125,13
-180,6033,2540,32,10
-360,3256,2055,16,8
-1800,1143,1143,4,4
+granularity_days_G,standard_key_count,tree_key_count,efficiency_percentage
+1,3649,3649,0.00%
+5,3649,730,79.99%
+30,3649,122,96.66%
+180,3649,21,99.42%
+360,3649,11,99.70%
+1800,3649,3,99.92%

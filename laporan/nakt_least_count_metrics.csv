@@ -1,7 +1,7 @@
-range_size_R,least_count_lc,normalized_leaf_blocks_R_over_lc,tree_height_or_max_keys,avg_keys_per_subscription_est
-3649,1,3649.0,12,5.917
-3649,5,729.8,10,4.756
-3649,30,121.633,7,3.463
-3649,180,20.272,5,2.171
-3649,360,10.136,4,1.671
-3649,1800,2.027,2,0.51
+range_size_R,least_count_lc,tree_height,avg_keys_per_subscription_est
+3649,1,12,5.917
+3649,5,10,4.756
+3649,30,7,3.463
+3649,180,5,2.171
+3649,360,4,1.671
+3649,1800,2,0.51
